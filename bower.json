@@ -1,0 +1,22 @@
+{
+  "name": "project-stub",
+  "version": "0.1.0",
+  "authors": [
+    "Michael Johnson <hello@public-business.co>"
+  ],
+  "description": "Project Stub",
+  "main": "src/assets/css/main.css",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "font-awesome": "~4.3.0"
+  }
+}
